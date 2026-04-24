@@ -18,3 +18,5 @@ ALTER TABLE user ADD role VARCHAR(20) DEFAULT 'user';
 
 select * from user;
 truncate table user;
+
+
